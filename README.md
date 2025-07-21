@@ -1,1 +1,1 @@
-# HOD402_Ethical-Hacking-and-Offensive-Security
+# HOD402 (Ethical Hacking and Offensive Security)
