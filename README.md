@@ -1,1 +1,5 @@
-# HOD402 (Ethical Hacking and Offensive Security)
+## Run following command:
+
+```console
+$pip install pycryptodome
+```
